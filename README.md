@@ -4,9 +4,12 @@ A simple backend project to send notifications to users via **Email**, **SMS**, 
 
 ## 🚀 Features
 
-- Send notifications via email, SMS, or in-app
-- Retrieve all notifications for a specific user
-- Basic retry logic for failed notifications
+- ✅ Send a notification to a user
+- ✅ Get all notifications for a user
+- ✅ Supports 3 types of notifications:
+  - 📧 Email
+  - 📱 SMS
+  - 💬 In-App
 
 ---
 
