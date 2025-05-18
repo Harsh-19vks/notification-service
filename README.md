@@ -29,3 +29,7 @@ git clone https://github.com/Harsh-19vks/notification-service.git
 cd notification-service
 npm install
 npm start
+
+🧑 Author
+Your Harshvardhan
+https://github.com/Harsh-19vks
