@@ -30,6 +30,6 @@ cd notification-service
 npm install
 npm start
 
-🧑 Author
+## 🧑 Author
 Your Harshvardhan
 https://github.com/Harsh-19vks
